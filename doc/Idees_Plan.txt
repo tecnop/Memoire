@@ -1,29 +1,118 @@
-// Oui Oui NAn
+Partie 1 : (OUI)
+C'est quoi le j.v ? Qu'entendre par réalisme ?
 
-1 / Histoire / du debut à aujourd'hui
-1?/ Histoire du J.V dans le contexte du réalise (vomit)
+Partie 2 : (OUI)
+Dans quelle direction va le j.v. ?
+
+Partie 3 : (NON)
+Qui ne va pas de se sens ?
+
+(OUI, NON, BOF, MAIN POSEZ VOUS LES QUESTIONS)
+Super, conclue moi tous ça.
+
+
+
+INTRO 
+MERCI
+
+Partie I : 
+
 			
-	a - Historique
+1 - Historique
 		
-		a - 1 Naissance du J.V
+	A Naissance du J.V
 		
-		a - 2 Age d'or
+	B Age d'or
 
-		a - 3 Les principaux acteurs aujourd'hui (vomit)
+	C Les categories de jeu
+		
+		1 Definition
+		(Un jeu définie ou entre dans une cat. en fonction de ses mechaniques, sa facon de jouer ...)
 
+		2 Evolution 
+		(de la naissance à +/- l'année ou elles sont casi-toutes définies)
 
-	x - Definition du terme réalisme
-	x - Definition du réalisme dans le J.V.
-			
+		3 Les clichés et gimmick
+	
+	D Le réalisme relatif à l'époque
+		
+		1 Definition (de réalisme)
+		(graphique + gamedesign, on définie ici ou on veut en venir par la suite)
+
+		1 Technologies
+		(Pas encore d'ordi. alog. techniques 3D, etc ...)
+
+		2 Economique 
+		(Domaine encore inconnu. réservé. developpeur libre av leur créativité)			
 		  		 
+Partie II :
 
-2 / Evolution / d'aujourd'hui à un futur proche
+2 - Avenir
 
-	x - La vallée dérangeante		
-	x - Le SIGGRAPH
-	x - 
+	A - Les principaux dev. de j.v aujdr
+		
+		1 - Chiffres
+		(les dominantes)
 
-3 / 
+		2 - Monté du j.v indépendant
+
+	B - La tendance	
+		
+		1 - Mode
+		( + de joueurs, pas les mêmes, marketing, economie)
+
+		2 - Technologies
+		(nouvelles platformes / nouveau outils / nouvelles contraintes)
+				
+	
+	C - Le réalisme prédominant				
+		
+		1 - L'univers d'un j.v
+		(Univers cohérant, idédit, mais humainenant compréhensible/accéssible )
+
+		2 - Les conventions spécialisés
+		(SIGGRAPH, etc .. tendance à pousser le réalisme)
+
+		3 - Risques
+		(La vallée dérangeante, satyre, alternatives de vie, etc ..(pour le OUI), l'élitisme etc.. (pour le NON))
+	
+	D - Résumé
+	(Le j.v tant vers le réalisme, parceque ceci, cela ... budget de film)
 
 
-4 / CONCLUFION 
+Partie III :
+
+3 - Contre pied
+	
+	(?) A - Retour sur le jeu indé.
+	(sudio indé, sortie d'école, économiquement disponnible à réaliser une alternative)
+	 
+	B - Le 13 eme Art
+	
+		1 - Définition
+		(tout comme le 1er Art ... 12eme, un art et définir par tatata ...)
+
+	C - Moyen d'expression
+
+		1 - Difficulté
+		(Economique, cout d'un jeu, attente des joueur, vision du j.v par les joueurs (au sens large))
+	
+		2 - Atouts
+		(a l'instart de la musique / peinture, exprimer un message, avancés phylosophique)
+
+
+CONCLUSION
+
+Oui : 
+- Le réalisme pousse l'expérience de jeu
+- Ouvre les porte du J.V au plus grand nombre
+
+Non : 
+- Créativité au rabais
+- Défouloire de vie, satyres
+
+Bof :
+- De tous pour tous le monde
+
+Ou va le j.v :
+- En fonction de la place et de la vision du J.V à travers la culture. 
