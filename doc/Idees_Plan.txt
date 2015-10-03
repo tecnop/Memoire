@@ -5,19 +5,21 @@ Partie 2 : (OUI)
 Dans quelle direction va le j.v. ?
 
 Partie 3 : (NON)
-Qui ne va pas de se sens ?
+Qui ne va pas dans ce sens ?
 
 (OUI, NON, BOF, MAIN POSEZ VOUS LES QUESTIONS)
 Super, conclue moi tous ça.
 
 
 
+La quête du réalisme du/dans le monde J.V
+
 INTRO 
 MERCI
 
-Partie I : 
 
-			
+
+Partie I : 		
 1 - Historique
 		
 	A Naissance du J.V
@@ -34,19 +36,20 @@ Partie I :
 
 		3 Les clichés et gimmick
 	
-	D Le réalisme relatif à l'époque
+	(?)D Les définitions du réalisme
 		
+		(!) Découper toussa, le réalisme de notre sens (Plusieur partie)
 		1 Definition (de réalisme)
 		(graphique + gamedesign, on définie ici ou on veut en venir par la suite)
-
+		
+		(?) A l'époque
 		1 Technologies
 		(Pas encore d'ordi. alog. techniques 3D, etc ...)
-
+		
 		2 Economique 
 		(Domaine encore inconnu. réservé. developpeur libre av leur créativité)			
 		  		 
 Partie II :
-
 2 - Avenir
 
 	A - Les principaux dev. de j.v aujdr
@@ -65,7 +68,7 @@ Partie II :
 		(nouvelles platformes / nouveau outils / nouvelles contraintes)
 				
 	
-	C - Le réalisme prédominant				
+	C - Le réalisme prédominant					
 		
 		1 - L'univers d'un j.v
 		(Univers cohérant, idédit, mais humainenant compréhensible/accéssible )
@@ -112,7 +115,7 @@ Non :
 - Défouloire de vie, satyres
 
 Bof :
-- De tous pour tous le monde
+- De tout pour tous le monde
 
 Ou va le j.v :
 - En fonction de la place et de la vision du J.V à travers la culture. 
