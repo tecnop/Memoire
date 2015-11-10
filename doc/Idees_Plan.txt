@@ -19,13 +19,16 @@ MERCI
 
 
 
-Partie I : 		
-1 - Historique
-		
-	A Naissance du J.V
-		
-	B Age d'or
+Introduction
 
+Partie I :
+
+1 - Historique
+	
+	A Naissance du J.V
+        
+	B Age d'or
+	
 	C Les categories de jeu
 		
 		1 Definition
