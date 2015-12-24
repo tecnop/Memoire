@@ -1,5 +1,5 @@
 Partie 1 : (OUI)
-C'est quoi le j.v ? Qu'entendre par r�alisme ?
+C'est quoi le j.v ? Qu'entendre par réalisme ?
 
 Partie 2 : (OUI)
 Dans quelle direction va le j.v. ?
@@ -8,11 +8,11 @@ Partie 3 : (NON)
 Qui ne va pas dans ce sens ?
 
 (OUI, NON, BOF, MAIN POSEZ VOUS LES QUESTIONS)
-Super, conclue moi tous �a.
+Super, conclue moi tous ça.
 
 
 
-La qu�te du r�alisme du/dans le monde J.V
+La quête du réalisme du/dans le monde J.V
 
 INTRO 
 MERCI
@@ -34,25 +34,25 @@ Partie I :
 	C Les categories de jeu
 		
 		1 Definition
-		(Un jeu d�finie ou entre dans une cat. en fonction de ses mechaniques, sa facon de jouer ...)
+		(Un jeu définie ou entre dans une cat. en fonction de ses mechaniques, sa facon de jouer ...)
 
 		2 Evolution 
-		(de la naissance � +/- l'ann�e ou elles sont casi-toutes d�finies)
+		(de la naissance à +/- l'année ou elles sont casi-toutes définies)
 
-		3 Les clich�s et gimmick
+		3 Les clichés et gimmick
 	
-	(?)D Les d�finitions du r�alisme
+	(?)D Les définitions du réalisme
 		
-		(!) D�couper toussa, le r�alisme de notre sens (Plusieur partie)
-		1 Definition (de r�alisme)
-		(graphique + gamedesign, on d�finie ici ou on veut en venir par la suite)
+		(!) Découper toussa, le réalisme de notre sens (Plusieur partie)
+		1 Definition (de réalisme)
+		(graphique + gamedesign, on définie ici ou on veut en venir par la suite)
 		
-		(?) A l'�poque
+		(?) A l'époque
 		1 Technologies
 		(Pas encore d'ordi. alog. techniques 3D, etc ...)
 		
 		2 Economique 
-		(Domaine encore inconnu. r�serv�. developpeur libre av leur cr�ativit�)			
+		(Domaine encore inconnu. réservé. developpeur libre av leur créativité)			
 		  		 
 Partie II :
 2 - Avenir
@@ -62,30 +62,30 @@ Partie II :
 		1 - Chiffres
 		(les dominantes)
 
-		2 - Mont� du j.v ind�pendant
+		2 - Monté du j.v indépendant
 
 	B - La tendance	
 		
 		1 - Mode
-		( + de joueurs, pas les m�mes, marketing, economie)
+		( + de joueurs, pas les mêmes, marketing, economie)
 
 		2 - Technologies
 		(nouvelles platformes / nouveau outils / nouvelles contraintes)
 				
 	
-	C - Le r�alisme pr�dominant					
+	C - Le réalisme prédominant					
 		
 		1 - L'univers d'un j.v
-		(Univers coh�rant, id�dit, mais humainenant compr�hensible/acc�ssible )
+		(Univers cohérant, idédit, mais humainenant compréhensible/accéssible )
 
-		2 - Les conventions sp�cialis�s
-		(SIGGRAPH, etc .. tendance � pousser le r�alisme)
+		2 - Les conventions spécialisés
+		(SIGGRAPH, etc .. tendance à pousser le réalisme)
 
 		3 - Risques
-		(La vall�e d�rangeante, satyre, alternatives de vie, etc ..(pour le OUI), l'�litisme etc.. (pour le NON))
+		(La vallée dérangeante, satyre, alternatives de vie, etc ..(pour le OUI), l'élitisme etc.. (pour le NON))
 	
-	D - R�sum�
-	(Le j.v tant vers le r�alisme, parceque ceci, cela ... budget de film)
+	D - Résumé
+	(Le j.v tant vers le réalisme, parceque ceci, cela ... budget de film)
 
 
 
@@ -94,38 +94,38 @@ Partie III :
 
 3 - Contre pied
 	
-	(?) A - Retour sur le jeu ind�.
-	(sudio ind�, sortie d'�cole, �conomiquement disponnible � r�aliser une alternative)
+	(?) A - Retour sur le jeu indé.
+	(sudio indé, sortie d'école, économiquement disponnible à réaliser une alternative)
 	 
 	B - Le 10 eme Art
 	
-		1 - D�finition
-		(tout comme le 1er Art ... 12eme, un art et d�finir par tatata ...)
+		1 - Définition
+		(tout comme le 1er Art ... 12eme, un art et définir par tatata ...)
 
 	C - Moyen d'expression
 
-		1 - Difficult�
+		1 - Difficulté
 		(Economique, cout d'un jeu, attente des joueur, vision du j.v par les joueurs (au sens large))
 	
 		2 - Atouts
-		(a l'instart de la musique / peinture, exprimer un message, avanc�s phylosophique)
+		(a l'instart de la musique / peinture, exprimer un message, avancés phylosophique)
 
 
 CONCLUSION
 
 Oui : 
-- Le r�alisme pousse l'exp�rience de jeu
+- Le réalisme pousse l'expérience de jeu
 - Ouvre les porte du J.V au plus grand nombre
 
 Non : 
-- Cr�ativit� au rabais
-- D�fouloire de vie, satyres
+- Créativité au rabais
+- Défouloire de vie, satyres
 
 Bof :
 - De tout pour tous le monde
 
 Ou va le j.v :
-- En fonction de la place et de la vision du J.V � travers la culture. 
+- En fonction de la place et de la vision du J.V à travers la culture. 
 
 
 
@@ -135,30 +135,122 @@ Ou va le j.v :
 ###############################
 
 
+I : (Histoire et tendances) Evolution du réalisme dans le (monde du) jeu vidéo
+	
+	// Nous allons définir ce qu'est le réalisme, ce qu'est le jeu au sens large, avec ces def. en tête faire un historique ...
+
+	Nous allons dans un premier temps donner quelques définitions du réalisme et du jeu au sens large, deux notions importante pour mieux comprendre notre envie, en tant qu'Homme, de faire en sorte que nos jeux vidéo soient toujours au plus près de notre réalité. Avec ces notions en tête, nous allons faire un peu d'histoire du jeu vidéo, voir comment il a évoluer en un demi siècle, ses grand tournant, ses codes qui lui son propre. Enfin, présenter ce qu'est le jeu vidéo aujourd'hui, sa facheuse tendance à tendre vers un réalisme visuel et sensorielle, essayer de comprendre ce qu'il pourrait être dans les décénies à venir.
+	
+
+	I.A : Généralités sur le réalisme et le jeu
+
+		Deux notions vastes, 
+
+		I.A.1 : Le réalisme (au sens général)
+
+			// Définition (Propre à l'humain ..)
+
+			I.A.1.a : Définition
+
+			Ce que l'on voit (des yeux). Société. 
+
+			I.A.1.b : (De notre point de vue) Mais pas que ...
+
+		I.A.2 : Le jeu comme outil d'apprentissage (le Jeu, au sens général)
+
+
+	I.B : Historique (du J.V)
+
+		I.B.1 : Naissance
+
+		I.B.2 : Age d'or
+
+		I.B.3 : Evolution du réalisme (à cette époque)
+			Passage de la 2D à la 3D
+
+		I.B.4 : Les codes du J.V
+
+		I.B.5 : Debut de l'industrie du J.V 
+
+	I.C : De nos jour
+
+		Nous somme a une période de l'informatique qui permet 
+
+		I.C.1 : Des J.V toujours plus réaliste
+
+			I.C.1.a : L'avancé des technologie
+				plus de puissance machine, nouvelle console, 3d plus poussé, nouveau genre du jeu
+
+			I.C.1.b : Les technologies émergeante (ou "les nouvelles facons de jouer")
+				nouvelle facons de jouer, occulus, kinect (immersion ..)
+
+		I.C.2 : (Le J.V,) Phénomène de société
+
+			// Le réalisme est intimement lié à notre société, la facons dont (...)*
+
+			I.C.2.a : 
+
+
+		Les jeux propre à notre société
+
+		Des J.V au plus proche de la réalité de notre société
+
+		Des jeux adapté à la société
+
+
+		I.C.2 : Le J.V comme produit de consomation
+
+			I.C.2.a : influance de notre systeme
+
+				Jeu poubelle (candy crush, passer le temps dans les transport, durée de vie caca)...
+
+			I.C.2.b : 
+
+		I.C.3 : 
+
+
+II : (Les dérives) Les dérives (du réalisme dans) de l'industrie du jeu vidéo
+
+
+
+III : (La résistance, comment doit elle évoluer) 
+	
+	Le réalisme a ses dérivent (...), mais il ouvre les portes du monde du J.V a des gens qui n'était pas prédisposer au J.V (les rassure). Hors du débat sur le réalisme, certain essai d'apporter des alternative, d'utiliser le J.V comme média, passer un message potilique, d'autre se servent du J.V comme moyen d'expression, d'Art à part entier, expérimente avec comme outil le J.V. Le réalisme n'est pas fondamentalement indisociable du J.V, le monde du J.V et encore jeune, tout dépend comment le réalisme fera évoluer celui-ci et comment il fera parraitre le J.V dans l'imaginaire collectif. C'est aujourd'hui que se jour l'avenir du J.V, sera t'il simple outil d'un système ? Un échapatoire ? Catarsis ? Ou au contraire un média à part entière avec ses codes propres (...)
+
+	III.A : Le réalisme au service du J.V
+
+
+
+Intro :
+
+Le jeu vidéo est une industrie très récente, il est également un Art, deux facettes qui peuvent s'entrechoquer sur certain point 
+
+
+
 [PARTIE I] Historique
 
-Si Pong n'a pas invent� le jeu vid�o, il a donn� le coup d'envoi � l'industrie vid�oludique. Celle-ci conna�t une croissance explosive et f�brile aux �tats-Unis jusqu'en 1983 o� elle subit un krach qui la fait migrer vers le Japon. C'est l� qu'elle voit sa renaissance, notamment gr�ce � la NES de Nintendo et au jeu Super Mario Bros en 1985 qui inaugure une nouvelle philosophie dans la conception des jeux vid�o : plus riches et ouverts � tous les publics.
+Si Pong n'a pas inventé le jeu vidéo, il a donné le coup d'envoi à l'industrie vidéoludique. Celle-ci connaît une croissance explosive et fébrile aux États-Unis jusqu'en 1983 où elle subit un krach qui la fait migrer vers le Japon. C'est là qu'elle voit sa renaissance, notamment grâce à la NES de Nintendo et au jeu Super Mario Bros en 1985 qui inaugure une nouvelle philosophie dans la conception des jeux vidéo : plus riches et ouverts à tous les publics.
 
 
 Guerre :
 	- Propagande
-		Id�ologie, les jeunes soutienne la guerre, le contexte (guerre froide, du vietnam) 
+		Idéologie, les jeunes soutienne la guerre, le contexte (guerre froide, du vietnam) 
 
-	- Entrainement � la guerre
-		Simulateur, jeux grand publique tjr + r�aliste, Exemple du jeu de guerre super r�aliste
+	- Entrainement à la guerre
+		Simulateur, jeux grand publique tjr + réaliste, Exemple du jeu de guerre super réaliste
 
 	- 
 
 
-R�alisme entre deux monde
+Réalisme entre deux monde
 
-	- Vall�e d�rangeante
+	- Vallée dérangeante
 
 	- Toys Story
 		Debut de l'animation, pas de visage des personnages humain.
 
-	- Les avanc�s technologiques ont la solution
-		Motion capture (mouvement) , performance capture (de la famille des motions capture, sp� sur les visage, abolition de la vall�e).
+	- Les avancés technologiques ont la solution
+		Motion capture (mouvement) , performance capture (de la famille des motions capture, spé sur les visage, abolition de la vallée).
 
 
 
