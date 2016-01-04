@@ -1,0 +1,70 @@
+Les dérive du realismes
+	
+	Le realisme dans les thématiques du JV
+		Comme dit précedemment, de nos jour, beaucoup de jeux utilise comme univers une copie de notre réalité. De nombreux jeu ayant pour thématique la guerre ont fait surface depuis la dernière décennie. 
+		Au fils des années, ces jeux sont devenus de plus en plus fidele a l'ambiance de la guerre. Les éditeurs de jeux vidéo ont travaillé attivement pour recreer a la perfection la sensation d'etre sur un champ de batailles. Notamment, les equipement militaire qui sont directement creer a partir de reel équipements mais aussi les armes a feux, les explosifs etc... Les éditeurs travaille parfois meme avec l'armée elle meme, on peut notamment citer l'éditeur de jeux EA Games, qui pour son jeu Medal of Honor a pu travailler avec des consultants de l'armée américaine afin d'etre conseillé et de pouvoir rendre le plus realiste possible l'experience de jeux. Nous pouvous aussi citer l'éditeur Kuma Reality Games qui a travaillé avec des militaire retraités sur leur keu Kuma\war et qui n'a pas hésité, une semaine apres la mort d'ousama ben laden, de proposer au joueur de pouvoir recreer cette mission dans ce jeu. 
+		De plus en plus d'éditeur de jeux se servent de conflit existant pour recreer leur décors de jeux. Ils n'hésitent pas a utiliser les véritables lieux, les faits et date historique, les armes. On peut citer la serie des Call of Duty qui est une des franchise les plus celebre en ce qui concerne les jeux de guerre. Leur épisode Call of Duty : World at War retrace les evenement de la seconde guerre mondiale proposant une immersion totale et offres des choix moraux au joueur. 
+		La plupart de ces jeux offres une experience visuelles authentiques mais les mécanique de jeux proposées au joueurs, elles, reste assez loin de la réalité. On peut notamment remarqué que le joueurs peut survivre a plusieurs impact de balle si il se met a couvert assez longtemps. Cependant, la serie des ARMA, développé par le studio tchque Bohemia Intercative, elle, se concentre aussi sur la réalité dans les mécanique de jeux. On voit par exemple que les impact de balles sont beaucoup plus punitifs et un seul suffit parfois a mettre tuer le personnage. On y voit aussi des contraintes d'endurance, de faim etc... 
+		Cette tendance actuelle de toujours vouloir poussé au plus loin la frontiere entre reel et virtuel n'hésitant pas a travailler avec l'armée pour concevoir les jeux de guerre nous pousse a le voir comme de la propagande. 
+	
+	La propagande
+		Le jeu vidéo a un enorme potentiel en propagande pro-capitaliste et pro-imperialiste. Reprennons la serie des Call of Duty. Dans la plupart des jeux de la serie, nous pouvons lire des citations de Colin Powell par exemple, ancien chef d'Etat major des armées américaines mais dans l'opus Call of Duty Modern Warfare 2, nous incarnons un soldat américains en guerre contre les russes, eux meme alliés a plusieur pays du moyen orient. Notre mission est d'empecher cette maléfique coalition de lancer une attaque nucléaire sur les Etats Unis, pour cela il faut tuer le maximum de soldats énnemis. Dans un autre Opus, Call of Duty : Black Ops, une des premiere mission a pour but de noud emmené a cuba pour tuer Fidel Castro. Par la suite, Apres avoir été expédié dans un goulag soviétique et s'etre échappé nous voila repartis au viet nam et au Laos afin d'empecher des terroristes communistes d'attaquer les Etats Unis. 
+		Ces jeux sont vendus a des millions d'éxemplaire et a l'instar du cinéma qui nous offre pas moins de propagande anti-communiste, le joueur n'est plus spéctateur mais acteur. Ainsi des millions de joueurs tuent virtuellement de sang froid Fidel Castro ainsi que des terrorsites pour défendre l'imperialisme americain. Il est évident que l'un des but premier est de généré du profit mais on y voit aussi la manipulation des impérialistes qui essaie de véhiculer l'idée qu'ils font la guerre pour de nobles causes.
+		En 2002, sort le jeu America's army développé par Epic et financé a hauteur de sept millions de dollars par le gouvernement americain. Le jeu fut distribué gratuitement. Le but de ce jeu est de donner une bonne image de l'armée americaine et aussi d'insiter les jeunes a rejoindre l'armée. Cependant la propagande dans le jeu vidéo n'est pas exclusivement pro-americaine comme on peut le voir dans le jeu ARMA III, le dernier opus de la serie des ARMA développé par le studio Bohemia Interactive.
+		En effet, dans ARMA III, les développeur ont permis aux joueurs de creer des version amateur modifiée (ou "mod"). Ces mods permettent au joueurs de modifié le jeu pour permettre d'y ajouté du contenu manquant on simplement le rendre différent. Seulement en Automne 2014, il est apparu un certain mod intitulé "Iraqi Warfare". Il permet de remplacer les deux factions jouables dans le jeu, Blufor et Opfor, par les unités de l'armée Irakienne, des peshmergas Kurdes et des combattants de l'Etat Islamique (EI), reconstituées avec un impressionnant soin du détail. Des partisans de L'EI se sont rapidement approprié cette version du jeu et certains ont commencé a ce filmer en jouant en mettant a disposition ces vidéos sur plusieurs site web d'hebergement. L'une de ces vidéo est intitulé "Nous établissions l'état islamique". Certaines vidéo alterne des images du jeux avec des images reelles. 
+		(peut etre a détailler)
+		
+
+		
+	la normalisation du jeux vidéo
+		
+	Partie a défninir
+		(...)
+		Mais lorsque l'on voit des jeux aussi réaliste que les grosses production moderne on peut se demander si les createurs ne s'engouffre pas dans ce que certains critique d'art on considéré comme une des plus grande impasse de l'histoire de la figuration : L'hyperréalisme.
+	L'hyperréalisme (et les technique de modélisations)
+		L'hyperréalisme est né au milieu du XXeme siecle, c'est un mouvement artistique qui consiste en la reproduction a l'identique d'une image en peinture. Celle ci en devient tellement réaliste qu'on se demande si l'oeuvre est une peinture ou une photographie. Dans l'univers du jeu vidéo, l'hyperréalisme a vu sa naissance en 1992 a la sortie de Mortal Kombat. En effet, ce jeux de combat en 2D a été le premier a utiliser une technique de photo-digitalisation a partir de vrais acteurs. A l'époque ou tous les décors et personnage étaient fait manuellement, cette tehcnique a donné une touche de réalisme jamais vue auparavant. Depuis ce jours les développeur ont tenté de repousser les limites du virtuel. 
+		Dans les années 2000, malgres l'évolution des consoles de jeux, le processus de création et d'animation des personnages restaient inchangés. Il y avait des technologies emergentes pour rendre plus realistes et plus vivant les entités mais c'est a l'arrivé de la capture de mouvement qu'on a pu voir reellement les personnages de jeux vidéo prendre vie. La capture de mouvement, ou Motion Capture, est une technique permettant d'enregistrer les positions et rotations d'objets ou de membres d'être vivants pour en controler une contrepartie visuelle sur ordinateurs par exemple un model 3D (definition wikipedia, a changé ?). 
+		De plus en plus de studio font appel a cette technologie ce qui a eu pour effet de decevoir les joueurs lorsqu'un jeu sortait sans. La différence ente un personnage animé via Motion Capture et un personnage animés manuellement est incroyable. Cela a permis de capturer les mouvements de vrais acteurs afin de les virtualisé dans le jeux vidéos. Ainsi nous avons pu voir apparaitre de reels acteurs tel que kevin spacey dans Call of Duty : Advanced Warfare ou bien Ellen Page dans The Last of Us. La motion capture a apporté une qualité au niveau du comportement des personnages a l'écran et pas seulement au niveau de la qualité visuelle.
+		
+		
+	La vallée dérangeante
+		Même dans les derniers jeux en date, les personnages manquent comme d'une étincelle d'humanité. Ce phénomène a un nom : L'uncanny valley (*). L'uncanny valley ou vallée dérangeante est une théorie scientifique inventée par Masahiro Mori, un roboticien japonais. Cette théorie concerne l'anthropomorphisme (attribution de caractéristiques comportementales ou morphologiques humaines à d'autres entités comme des animaux, des objets, des phénomènes, voire des idées) et démontre que si un robot a trop de similitude avec un humain, ses imperfections deviennent de plus en plus inquiétante (voir courbe ci-dessous).
+		Cette théorie est applicable aux personnages de jeux vidéo.
+	
+	
+	
+	
+	
+	
+	
+-------------------------------------------------------------------------------	
+	
+david perry : jeux mcdo et 7up
+Jeu vidéo attire les annonceurs
+	
+	
+Machine and van Leeuween referred to as the “special operation discourse”.
+
+Novalogic, spoke about realistic elements of a game in a 2002 interview with IGN (Butts, 2002) about Delta Force: Task Force Dagger : “The levels are based on real operations” and “It's been very challenging to get the details of uniforms, equipment, weapons and tactics right”.
+
+propagande:
+http://www.e-ir.info/2014/11/26/war-in-video-games-between-reality-and-entertainment/
+https://www.fichier-pdf.fr/2012/04/06/global-media-discourse/global-media-discourse.pdf
+http://www.lemonde.fr/pixels/article/2015/02/05/un-mod-d-arma-3-recupere-par-la-propagande-de-l-etat-islamique_4570415_4408996.html
+https://www.icrc.org/fre/resources/documents/film/2013/09-28-ihl-video-games.htm (croix rouge et jv)
+
+hyperrealisme:
+https://fr.wikipedia.org/wiki/Hyperr%C3%A9alisme
+http://www.m2gaming.ca/dossiers/hyperrealisme-futurs-jeux-video
+http://www.hyperrealisme.net/histoire.html
+
+
+
+usul lolz
+http://www.jeuxvideo.com/chroniques-video/00000345/3615-usul-le-classicisme-00113163.htm 		(le classisime)
+http://www.jeuxvideo.com/chroniques-video/00000345/3615-usul-la-guerre-00000199.htm 			(la guerre, 6min30)
+http://www.jeuxvideo.com/chroniques-video/00000345/3615-usul-la-pub-00000135.htm 				(la pub)
+https://www.youtube.com/watch?v=r4fP4XpGHk4&list=PLDngehqLGzgsyoIVFz_Cvint_Tw2Matnn&index=58 	(Les graphismes, 5min)
+https://www.youtube.com/watch?v=498PTDdRdHs&list=PLDngehqLGzgsyoIVFz_Cvint_Tw2Matnn&index=30 	(Les jeux indés)
+https://www.youtube.com/watch?v=13bJAkDzKLw&list=PLDngehqLGzgsyoIVFz_Cvint_Tw2Matnn&index=19 	(les jeux vidéo, 5min)
+https://www.youtube.com/watch?v=Mjxnag4_U3M&list=PLDngehqLGzgsyoIVFz_Cvint_Tw2Matnn&index=1 	(la presse JV)
